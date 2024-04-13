@@ -140,7 +140,8 @@ class llmodel(nn.Module):
         return prompt
 
 
-@hydra.main(config_path="configs", config_name="baseline")
+# @hydra.main(config_path="configs", config_name="baseline")
+@hydra.main(config_path="configs", config_name="baseline", version_base="1.1")
 def main(config: DictConfig) -> None:
     set_random_seed(config.seed)
     config.data.task = 'meta_SFT'

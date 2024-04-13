@@ -1,7 +1,12 @@
+hydra:
+  run:
+    dir: .
+
 project_name: group-alignment-sft
-expid: None
-model_ckpt: ./recover_weights_alpaca_7b
-#model_ckpt: ./llama-2-7b-chat-hf
+expid: dummy
+# model_ckpt: ./recover_weights_alpaca_7b
+# model_ckpt: ./llama-2-7b-chat-hf
+model_ckpt: meta-llama/Llama-2-7b-chat-hf
 prompt_format: llama2
 use_int8: True
 
@@ -14,15 +19,14 @@ lora:
 
 data:
   task: meta_SFT # in-context-finetuning
-  #dataset: opinion_qa
-  dataset: anthropic_global_opinions
+  dataset: opinion_qa
+  # dataset: anthropic_global_opinions
   oqa_datapath: ./OQA_data/ 
   group_idx: 0
   group_split: 0.4 # meta train group percentage
   CONTEXT: default 
-  
-trainer:
 
+trainer:
   num_train_epochs: 10000
   output_dir: "./finetune_baselines_SFTmodels/" # Set to model saving directory
   reproduce_exp_log_dir: "./exp_infolog/" # For saving qkeys used for train and test
@@ -35,6 +39,6 @@ trainer:
 
 
 seed: 0
-use_context: True
+use_context: False
 steer: portray #[bio, qa, portay]
 eval_n_ctx_qs: 20

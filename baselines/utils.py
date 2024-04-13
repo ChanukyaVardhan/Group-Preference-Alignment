@@ -195,10 +195,16 @@ def prepare_ds(config):
             'train_groups': pd.Series(train_groups).astype(str),
             'test_groups': pd.Series(test_groups).astype(str)
         })
+        if not os.path.exists(config.trainer.reproduce_exp_log_dir):
+            os.mkdir(config.trainer.reproduce_exp_log_dir)
+        print(config.trainer.reproduce_exp_log_dir)
         if config.data.task == 'meta_SFT':
             config.trainer.reproduce_exp_log_dir += 'meta_sft_logs' 
         elif config.data.task == 'sft_pergroup':
             config.trainer.reproduce_exp_log_dir += 'sft_logs'
+        if not os.path.exists(config.trainer.reproduce_exp_log_dir):
+            os.mkdir(config.trainer.reproduce_exp_log_dir)
+        print(config.trainer.reproduce_exp_log_dir)
         train_test_groups_df.to_csv(f'{config.trainer.reproduce_exp_log_dir}/{config.expid}_train_test_groups.csv', index=False)
 
         # Group the DataFrame by 'group' and create a list of DataFrames
