@@ -1,0 +1,34 @@
+#conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+accelerate
+tqdm
+wandb
+pandas
+scipy
+hydra-core
+transformers
+trl
+peft==0.9.0
+datasets
+swifter
+termcolor
+#pip install -i https://pypi.org/simple/ bitsandbytes
+
+#conda install pytorch torchvision torchaudio absl-py pyparsing jupyterlab numpy pytorch-cuda=11.8 -c pytorch -c nvidia
+
+# torch
+# torchvision
+# torchaudio
+# trl
+# peft
+# bitsandbytes
+# transformers
+# langchain
+# # faiss-gpu
+# datasets
+# beautifulsoup4
+# google-api-python-client
+# sentence-transformers
+# wandb
+# exa_py
+# openai
+

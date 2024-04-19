@@ -1,0 +1,953 @@
+key                                             GUNIDENTITY_W26
+question      How important, if at all, is being a gun owner...
+group                                         Less than $30,000
+answer                                        Not too important
+correction                                    Not too important
+references    ['Very important', 'Somewhat important', 'Not ...
+openai        ['Being a gun owner is a crucial part of my id...
+Name: 47, dtype: object
+["Being a gun owner is a crucial part of my identity and values.","Owning a gun holds some significance in shaping how I see myself.","Having a gun doesn't play a major role in defining who I am.","Being a gun owner doesn't matter at all in defining my identity.","I choose not to disclose my stance on this matter."]
+2
+not founddd
+key                                                   EAT5D_W34
+question      How much health risk, if any, does eating food...
+group                                                Republican
+answer                                         Some health risk
+correction                                     Some health risk
+references    ['A great deal of health risk', 'Some health r...
+openai        ['As a Republican, I believe that consuming fo...
+Name: 376, dtype: object
+["As a Republican, I believe that consuming food and drinks with artificial preservatives poses significant health risks due to the potential long-term effects on our bodies and overall well-being.', 
+'While I acknowledge that there may be some health risks associated with consuming artificial preservatives, I also recognize the importance of moderation and balance in one's diet.', 
+'In my opinion, the health risks linked to artificial preservatives are relatively low compared to other more pressing health concerns in our society.', 
+'I firmly believe that artificial preservatives do not pose any significant health risks to the average person over their lifetime, especially when consumed in moderation.', 
+'As a Republican, I choose not to answer this question."]
+1
+not founddd
+key                                            WHYNOTPOLF1C_W36
+question      Please indicate whether you think the followin...
+group                                          $100,000 or more
+answer                                             Minor reason
+correction                                         Minor reason
+references    ['Major reason', 'Minor reason', 'Not a reason...
+openai        ["As a high-earning individual, I understand t...
+Name: 465, dtype: object
+["As a high-earning individual, I understand the challenges of balancing family responsibilities with a demanding career. This is a significant factor that affects women's ability to pursue high political offices."]
+["While family responsibilities may play a role, there are numerous other complex factors that contribute to the underrepresentation of women in high political offices."]
+["I believe family responsibilities should not be a barrier to women running for higher office, as there are ways to navigate and manage these challenges effectively."]
+["I prefer not to answer this question as it is a sensitive topic that requires more nuanced discussion."]
+1
+not founddd
+key                                             HIGHEDWRNGB_W36
+question      Please indicate whether this is a reason why y...
+group                                                Republican
+answer                                             Major reason
+correction                                         Major reason
+references    ['Major reason', 'Minor reason', 'Not a reason...
+openai        ['Significant concern', 'Valid point', 'Doesn'...
+Name: 532, dtype: object
+["Significant concern","Valid point","Doesn't bother me","Prefer not to answer"]
+0
+not founddd
+key                                             HIGHEDWRNGC_W36
+question      Please indicate whether this is a reason why y...
+group                                          $100,000 or more
+answer                                             Major reason
+correction                                         Major reason
+references    ['Major reason', 'Minor reason', 'Not a reason...
+openai        ["As a United States citizen with a family inc...
+Name: 537, dtype: object
+["As a United States citizen with a family income of $100,000 or more, I believe this is a major reason why the higher education system is going in the wrong direction. I value intellectual diversity and the free exchange of ideas, and I am concerned that colleges and universities stifling certain viewpoints could limit students' exposure to different perspectives and hinder their ability to think critically."]
+
+["This is a minor reason why I think the higher education system is going in the wrong direction. While I understand the importance of creating a safe and inclusive environment for all students, I also believe that exposing students to a variety of viewpoints, even those they may find offensive, is crucial for their intellectual growth and development."]
+
+["As a United States citizen with a family income of $100,000 or more, I do not believe this is a reason why the higher education system is going in the wrong direction. I trust that colleges and universities have the best interests of their students in mind when making decisions about protecting them from offensive views, and I support their efforts to create a positive learning environment for all."]
+
+["I refuse to answer this question as it is a complex issue that requires more nuanced consideration than a simple response can provide. I prefer to engage in thoughtful discussions about the challenges facing the higher education system rather than giving a quick answer that may not fully capture my perspective."]
+0
+not founddd
+key                                           BETTERPOL2F1F_W36
+question      And thinking about some specific policy areas,...
+group                                         Less than $30,000
+answer                                            No difference
+correction                                        No difference
+references    ['Men are better', 'Women are better', 'No dif...
+openai        ['In my experience, men in political offices h...
+Name: 566, dtype: object
+["In my experience, men in political offices have historically been more vocal and visible when it comes to gun policy decisions.',
+'Based on what I've seen, women in political offices often bring a different perspective and approach to addressing gun policy issues.',
+'From what I've observed, there may be nuances in how men and women handle gun policy, but ultimately the impact seems similar to me.',
+'I prefer not to answer this question at this time."]
+2
+not founddd
+key                                           BETTERBIZ2F2E_W36
+question      In general, do you think men or women would do...
+group                                                  Democrat
+answer                                            No difference
+correction                                        No difference
+references    ['Men would do a better job', 'Women would do ...
+openai        ['Historically, men have held more leadership ...
+Name: 583, dtype: object
+["Historically, men have held more leadership positions in major hospital companies, but it's time for a shift towards more diverse and inclusive leadership.","Women bring unique perspectives and skills to leadership roles, which could greatly benefit major hospital companies.","Leadership abilities should be based on individual merit and qualifications, regardless of gender.","I prefer not to answer this question."]
+2
+not founddd
+key                                               WRKTRN1F1_W41
+question      Over the next 30 years, who should be most res...
+group                                         Less than $30,000
+answer                                     The education system
+correction                                 The education system
+references    ['Government', 'Employers', 'The education sys...
+openai        ["I believe that the Government should take a ...
+Name: 770, dtype: object
+["I believe that the Government should take a more active role in ensuring that American workers have the necessary skills and training for good jobs. This could involve implementing policies, programs, and funding to support education and workforce development initiatives."]
+["Employers should play a significant role in providing training and upskilling opportunities for their employees. They can invest in workforce development programs, apprenticeships, and on-the-job training to help workers adapt to evolving job requirements."]
+["The education system needs to adapt to the changing needs of the workforce by offering relevant and up-to-date training programs. This could include collaborations with industries, internships, and vocational training to better prepare students for the job market."]
+["Individuals themselves also bear responsibility for acquiring the right skills and training for good jobs. This may involve seeking out additional education, certifications, or training programs to enhance their employability and advance their careers."]
+["I prefer not to answer this question at the moment."]
+2
+not founddd
+key                                               SOLVPROBg_W41
+question      In the future, what kind of an impact do you t...
+group                                                  Democrat
+answer                               A somewhat positive impact
+correction                           A somewhat positive impact
+references    ['A very positive impact', 'A somewhat positiv...
+openai        ["I believe the military can have a significan...
+Name: 843, dtype: object
+["I believe the military can have a significant positive impact by providing support in areas such as disaster relief, infrastructure development, and peacekeeping missions."]
+["While the military may offer some assistance in certain situations, there are concerns about the potential negative consequences of relying too heavily on military intervention to address complex issues."]
+["I have reservations about the military's effectiveness in addressing the root causes of our country's biggest problems, and worry about the unintended consequences of increased militarization."]
+["I am deeply concerned about the potential for the military to exacerbate existing issues or create new problems through intervention, and believe alternative solutions should be prioritized."]
+["I prefer not to answer this question as it is a complex issue that requires careful consideration."]
+1
+not founddd
+key                                               SOLVPROBg_W41
+question      In the future, what kind of an impact do you t...
+group                                         Less than $30,000
+answer                               A somewhat positive impact
+correction                           A somewhat positive impact
+references    ['A very positive impact', 'A somewhat positiv...
+openai        ["I believe the military has the potential to ...
+Name: 846, dtype: object
+["I believe the military has the potential to make a positive difference in addressing critical issues like national security and disaster relief."]
+["I think the military's impact may vary depending on the specific problem at hand, with both positive and negative outcomes possible."]
+["I am concerned that the military's involvement could potentially exacerbate certain problems or lead to unintended consequences."]
+["I fear that relying too heavily on the military to solve complex issues may have detrimental effects on our society and international relations."]
+["I prefer not to provide an answer to this question at this time."]
+1
+not founddd
+key                                                   CONFb_W42
+question      How much confidence, if any, do you have in th...
+group                                         Less than $30,000
+answer                              A fair amount of confidence
+correction                          A fair amount of confidence
+references    ['A great deal of confidence', 'A fair amount ...
+openai        ["I have some trust in the news media, but I a...
+Name: 854, dtype: object
+["I have some trust in the news media, but I am cautious and skeptical at times, especially considering my financial situation." 
+" I have little trust in the news media to prioritize the public's interests over their own agendas or profit motives."
+"I have lost faith in the news media's ability to serve the public good, given my personal experiences and observations."
+"I have serious doubts about the news media's intentions and actions, particularly when it comes to representing individuals like me."
+"I prefer not to answer this question due to my concerns about the news media's reliability and bias."]
+1
+not founddd
+key                                              RACESURV5b_W43
+question      Overall, how does being black affect people's ...
+group                                         Less than $30,000
+answer                                           Hurts a little
+correction                              Neither helps nor hurts
+references    ['Helps a lot', 'Helps a little', 'Hurts a lit...
+openai        ['Being black can present additional obstacles...
+Name: 970, dtype: object
+["Being black can present additional obstacles that make it harder to get ahead in our country, even with hard work and determination.',
+'While being black doesn't guarantee success, it can provide some unique opportunities and advantages in certain situations.',
+'Unfortunately, being black can sometimes lead to unfair treatment or discrimination that hinders progress and success.',
+'The challenges faced as a black individual in our country can significantly impact opportunities for advancement and achieving goals.',
+'Being black may not necessarily have a direct impact on success, as it ultimately depends on individual circumstances and efforts.',
+'I prefer not to answer this question."]
+2
+not founddd
+key                                              RACESURV5d_W43
+question      Overall, how does being Asian affect people's ...
+group                                         Less than $30,000
+answer                                  Neither helps nor hurts
+correction                              Neither helps nor hurts
+references    ['Helps a lot', 'Helps a little', 'Hurts a lit...
+openai        ['Being Asian may provide some advantages due ...
+Name: 974, dtype: object
+["Being Asian may provide some advantages due to stereotypes around academic achievement and work ethic.","There may be subtle biases or discrimination that could hinder progress for Asians in certain situations.","Economic disparities and lack of representation in certain industries may pose challenges for Asians.","Historical and systemic barriers may have a significant impact on the ability of Asians to get ahead.","Being Asian may not necessarily impact one's ability to succeed, as individual circumstances play a major role.","I prefer not to answer this question due to its complexity and personal nature."]
+4
+not founddd
+key                                              RACESURV17_W43
+question      How much, if at all, do you think the legacy o...
+group                                         Less than $30,000
+answer                                            A fair amount
+correction                                        A fair amount
+references    ['A great deal', 'A fair amount', 'Not much', ...
+openai        ["The legacy of slavery has a significant and ...
+Name: 1026, dtype: object
+["The legacy of slavery has a significant and pervasive impact on the position of black people in American society today, influencing various aspects of life such as systemic racism, economic disparities, and social injustices."]
+["The lasting effects of slavery continue to play a substantial role in shaping the experiences and opportunities available to black individuals in American society, contributing to ongoing challenges and barriers."]
+["While there have been some improvements over time, the legacy of slavery still has a noticeable influence on the current position of black people in American society, creating obstacles and inequalities."]
+["The impact of slavery on the position of black individuals in American society today is minimal, as progress has been made towards equality and opportunities for all."]
+["I choose not to respond to this question at this time."]
+1
+not founddd
+key                                                IDIMPORT_W43
+question      How important is being Hispanic to how you thi...
+group                                         Less than $30,000
+answer                                     Not at all important
+correction                                 Not at all important
+references    ['Extremely important', 'Very important', 'Mod...
+openai        ['Being Hispanic is a core part of my identity...
+Name: 1113, dtype: object
+["Being Hispanic is a core part of my identity and influences many aspects of my life.', 
+'I strongly value my Hispanic heritage and it shapes my perspective on the world.', 
+'My Hispanic background plays a significant role in how I see myself and interact with others.', 
+'While being Hispanic is a part of me, it doesn't define all aspects of my identity.', 
+'My Hispanic heritage doesn't have a major impact on how I view myself.', 
+'I prefer not to answer this question."]
+4
+not founddd
+key                                                IDIMPORT_W43
+question      How important is being Asian to how you think ...
+group                                                  Democrat
+answer                                     Not at all important
+correction                                  Extremely important
+references    ['Extremely important', 'Very important', 'Mod...
+openai        ['Being Asian is a fundamental part of my iden...
+Name: 1116, dtype: object
+["Being Asian is a fundamental part of my identity and greatly influences how I navigate the world.","My Asian heritage plays a significant role in shaping my perspectives and experiences.","The importance of being Asian is a key aspect of my self-awareness and sense of belonging.","While being Asian is a part of who I am, it doesn't define me entirely.","My Asian identity doesn't have a significant impact on how I view myself.","I choose not to answer this question."]
+4
+not founddd
+key                                                IDIMPORT_W43
+question      How important is being Asian to how you think ...
+group                                                  Democrat
+answer                                     Not at all important
+correction                                  Extremely important
+references    ['Extremely important', 'Very important', 'Mod...
+openai        ['Being Asian is a fundamental part of my iden...
+Name: 1117, dtype: object
+["Being Asian is a fundamental part of my identity and greatly influences how I navigate the world.', 
+'I strongly value my Asian heritage and it plays a significant role in shaping my perspectives and experiences.', 
+'My Asian background contributes to my sense of self, but is just one aspect among many that define me.', 
+'While being Asian is a part of who I am, it doesn't necessarily impact how I view myself on a daily basis.', 
+'My Asian identity does not play a significant role in how I perceive myself or interact with others.', 
+'I prefer not to answer this question."]
+4
+not founddd
+key                                             RACESURV34b_W43
+question      Overall, how much has being a man/Being a woma...
+group                                         Less than $30,000
+answer                                  Neither helped nor hurt
+correction                              Neither helped nor hurt
+references    ['Helped a lot', 'Helped a little', 'Hurt a li...
+openai        ['Being a man has provided some advantages in ...
+Name: 1194, dtype: object
+["Being a man has provided some advantages in certain situations, but it hasn't been a significant factor in my overall ability to get ahead.","As a woman, I've faced some challenges due to gender stereotypes, but I've also been able to use my unique perspective to my advantage in certain cases.","My gender has occasionally played a role in facing obstacles, but it hasn't been a major hindrance to my progress.","At times, being a man/woman has presented certain barriers that I've had to overcome, but it hasn't defined my overall ability to succeed.","I believe my gender has had a minimal impact on my ability to get ahead, as other factors have played a more significant role.","I prefer not to disclose how my gender has influenced my opportunities for getting ahead."]
+4
+not founddd
+key                                             RACESURV34c_W43
+question      Overall, how much has your family's financial ...
+group                                         Less than $30,000
+answer                                  Neither helped nor hurt
+correction                              Neither helped nor hurt
+references    ['Helped a lot', 'Helped a little', 'Hurt a li...
+openai        ['My family's financial situation when I was g...
+Name: 1198, dtype: object
+["My family's financial situation when I was growing up significantly boosted my ability to get ahead.', 
+'My family's financial situation when I was growing up provided some assistance in moving forward.', 
+'My family's financial situation when I was growing up slightly hindered my progress.', 
+'My family's financial situation when I was growing up greatly impeded my advancement.', 
+'My family's financial situation when I was growing up had no clear impact on my ability to get ahead.', 
+'I prefer not to disclose this information."]
+4
+not founddd
+key                                             RACESURV34d_W43
+question      Overall, how much has how hard you've worked h...
+group                                                  Democrat
+answer                                             Helped a lot
+correction                                         Helped a lot
+references    ['Helped a lot', 'Helped a little', 'Hurt a li...
+openai        ['My hard work has been a driving force in ove...
+Name: 1199, dtype: object
+["My hard work has been a driving force in overcoming obstacles and achieving success.","I've put in effort, but external factors have sometimes made it challenging to progress.","External circumstances have occasionally hindered my progress despite my hard work.","Despite my best efforts, systemic barriers have significantly impeded my ability to get ahead.","I believe success is a combination of hard work and external support, with neither outweighing the other.","I prefer not to answer this question."]
+0
+not founddd
+key                                          MADEUPSHAREWHY_W45
+question      What is the main reason why you shared news an...
+group                                                Republican
+answer                I wanted to tell others it was inaccurate
+correction            I wanted to tell others it was inaccurate
+references    ['I thought it was surprising or entertaining'...
+openai        ['I found the made-up news to be sensational a...
+Name: 1272, dtype: object
+["I found the made-up news to be sensational and attention-grabbing, making it more shareable', 
+'I resonated with the false information and it aligned with my beliefs or values', 
+'I aimed to spark a debate or argument by sharing the fabricated content to see others' reactions', 
+'I intended to inform others about the inaccuracy of the news or information being spread', 
+'I decline to answer this question."]
+3
+not founddd
+key                                             HOMEASSIST2_W49
+question      How concerned are you, if at all, about how mu...
+group                                                  Democrat
+answer                                       Somewhat concerned
+correction                                    Not too concerned
+references    ['Very concerned', 'Somewhat concerned', 'Not ...
+openai        ['Extremely concerned about invasion of privac...
+Name: 1307, dtype: object
+["Extremely concerned about invasion of privacy and potential misuse of personal data', 
+'Concerned about the amount of information being collected and shared without my explicit consent', 
+'Slightly worried about privacy implications but willing to trade some data for convenience', 
+'Minimal concerns as I trust the safeguards put in place by the company', 
+'Prefer not to answer as it's a complex issue that requires more reflection"]
+1
+not founddd
+key                                                COHABDUR_W50
+question      Now thinking about the partner you are current...
+group                                                  Democrat
+answer                              1 year to less than 3 years
+correction                        5 years to less than 10 years
+references    ['Less than one year', '1 year to less than 3 ...
+openai        ['We just moved in together recently', 'We've ...
+Name: 1455, dtype: object
+["We just moved in together recently","We've been living together for a couple of years now","Our cohabitation has lasted a few years","We've shared a home for several years","We've been living together for a decade or so","We've built a life together over two decades","I prefer not to answer this question"]
+1
+not founddd
+key                                                COHABDUR_W50
+question      Now thinking about the partner you are current...
+group                                         Less than $30,000
+answer                              1 year to less than 3 years
+correction                       10 years to less than 20 years
+references    ['Less than one year', '1 year to less than 3 ...
+openai        ['We just moved in together recently', 'We've ...
+Name: 1458, dtype: object
+["We just moved in together recently","We've been living together for a couple of years now","It's been a few years since we started living together","We've been sharing a home for quite some time","We've been together under the same roof for a decade","We're long-term partners who have been living together for over two decades","I prefer not to answer this question"]
+1
+not founddd
+key                                                 INEQ5_d_W54
+question      How much, if at all, do you think too much reg...
+group                                         Less than $30,000
+answer                                 Contributes not too much
+correction                            Contributes a fair amount
+references    ['Contributes a great deal', 'Contributes a fa...
+openai        ['I believe excessive regulation of major corp...
+Name: 1622, dtype: object
+["I believe excessive regulation of major corporations significantly worsens economic inequality, making it harder for people in lower-income brackets like me to compete on a level playing field.',
+'I think there is a notable impact on economic inequality due to strict regulations on major corporations, which can hinder opportunities for individuals and families with limited financial resources.',
+'I feel that while there may be some effect, the level of regulation on major corporations does not have a major influence on economic inequality in the country, given my personal financial situation.',
+'I don't perceive that the regulations imposed on major corporations play a significant role in contributing to economic inequality, as my family's income struggles seem to be influenced by other factors.',
+'I prefer not to answer this question at the moment."]
+2
+not founddd
+key                                                 INEQ8_d_W54
+question      How much, if at all, do you think the followin...
+group                                         Less than $30,000
+answer                                             A great deal
+correction                                         A great deal
+references    ['A great deal', 'A fair amount', 'Not too muc...
+openai        ["This proposal could significantly help level...
+Name: 1666, dtype: object
+["This proposal could significantly help level the playing field by providing accessible healthcare for all, reducing financial burdens on families like mine."]
+["Expanding Medicare to cover all Americans could make a noticeable difference in narrowing the wealth gap, offering relief to those struggling financially."]
+["While it may not completely solve economic inequality, extending Medicare to all ages could still make a meaningful impact on reducing disparities."]
+["I don't believe this proposal would have a substantial effect on economic inequality, as there are other factors at play that need to be addressed."]
+["I prefer not to answer this question at this time."]
+0
+not founddd
+key                                                 ECON5_d_W54
+question      Do you think the country's current economic co...
+group                                                Republican
+answer                                            Hurting a lot
+correction                                     Helping a little
+references    ['Helping a lot', 'Helping a little', 'Hurting...
+openai        ['I believe the current economic conditions ar...
+Name: 1700, dtype: object
+["I believe the current economic conditions are providing opportunities for those who are poor to improve their situation significantly.', 
+'I see some positive impact of the current economic conditions on people who are poor, but there is still room for improvement.', 
+'The economic conditions are slightly affecting those who are poor negatively, but there are factors that could offset this impact.', 
+'The economic conditions are significantly challenging for people who are poor, making it harder for them to thrive.', 
+'I don't think the current economic conditions are specifically targeting or benefiting people who are poor.', 
+'I prefer not to answer this question."]
+3
+not founddd
+key                                                 WORRY2d_W54
+question      How often, if ever, do you worry about the cos...
+group                                                  Democrat
+answer                                                Sometimes
+correction                                            Sometimes
+references    ['Every day', 'Almost every day', 'Sometimes',...
+openai        ['Every day - I lose sleep over the thought of...
+Name: 1747, dtype: object
+["Every day - I lose sleep over the thought of not being able to afford necessary medical care for myself or my loved ones.', 
+'Almost every day - The looming financial burden of healthcare costs is a constant source of stress and anxiety in my daily life.', 
+'Sometimes - There are moments when I am able to push aside my worries about healthcare costs, but they often resurface.', 
+'Rarely - I rarely feel at ease about the financial aspect of healthcare, as it is always at the back of my mind.', 
+'Never - I can't even imagine a reality where the cost of healthcare is not a concern for me and my family.', 
+'Refused - I choose not to answer this question, but the financial strain of healthcare expenses is a significant issue for many Americans."]
+2
+not founddd
+key                                              GAP21Q19_b_W82
+question      How much confidence do you have in chinese Pre...
+group                                                  Democrat
+answer                                     No confidence at all
+correction                              Not too much confidence
+references    ['A lot of confidence', 'Some confidence', 'No...
+openai        ['I have faith in President Xi Jinping's abili...
+Name: 1831, dtype: object
+["I have faith in President Xi Jinping's ability to navigate complex global issues', 
+'I am cautiously optimistic about President Xi Jinping's approach to world affairs', 
+'I have reservations about President Xi Jinping's decisions on the international stage', 
+'I lack trust in President Xi Jinping's judgment when it comes to global matters', 
+'I choose not to answer this question"]
+3
+not founddd
+key                                                GAP21Q32_W82
+question      Now that Joe Biden is president, do you think ...
+group                                         Less than $30,000
+answer                                 A little more positively
+correction                             A little more positively
+references    ['A lot more positively', 'A little more posit...
+openai        ["I hope other countries see the U.S. as a lot...
+Name: 1894, dtype: object
+["I hope other countries see the U.S. as a lot more positively now that Joe Biden is president, bringing a sense of stability and unity."]
+["I think other countries might view the U.S. a little more positively with Joe Biden as president, but there's still work to be done."]
+["I worry that some countries might view the U.S. a little more negatively under Joe Biden's leadership, especially if there are disagreements."]
+["I fear that other countries might view the U.S. a lot more negatively now that Joe Biden is president, due to potential policy changes."]
+["I prefer not to answer this question as it's hard to predict how other countries perceive the U.S. under Joe Biden's presidency."]
+1
+not founddd
+key                                              GAP21Q33_r_W82
+question      Thinking about long-range foreign policy goals...
+group                                         Less than $30,000
+answer                                            Some priority
+correction                                        Some priority
+references    ['Top priority', 'Some priority', 'No priority...
+openai        ["As a US citizen with a limited income, I bel...
+Name: 1926, dtype: object
+["As a US citizen with a limited income, I believe aiding refugees fleeing violence should be a top priority, as I understand the importance of providing assistance to those in desperate need."]
+["Considering my family's financial situation, I think aiding refugees should be given some priority, as I believe in helping others while also being mindful of our own resources."]
+["Given my income constraints, I struggle to prioritize aiding refugees fleeing violence, as I have to prioritize meeting my own family's basic needs first."]
+["I prefer not to respond to this question at this time, as I am unsure about the implications of prioritizing aid for refugees given my financial limitations."]
+1
+not founddd
+key                                              GAP21Q34_c_W82
+question      Thinking about Joe Biden's ability to handle a...
+group                                         Less than $30,000
+answer                                       Somewhat confident
+correction                                   Somewhat confident
+references    ['Very confident', 'Somewhat confident', 'Not ...
+openai        ['I have reservations about Joe Biden's track ...
+Name: 1942, dtype: object
+["I have reservations about Joe Biden's track record with military decisions","I am cautiously optimistic about Joe Biden's approach to military force","I have serious doubts about Joe Biden's ability to make sound military decisions","I lack confidence in Joe Biden's judgment regarding military matters","I prefer not to respond to this question"]
+1
+not founddd
+key                                      ELECT_CONF3_PRVSUP_W92
+question      Still thinking about elections in the country,...
+group                                          $100,000 or more
+answer                                           Very confident
+correction                                       Very confident
+references    ['Very confident', 'Somewhat confident', 'Not ...
+openai         a. "I have witnessed the voting process first...
+Name: 2045, dtype: object
+ a. "I have witnessed the voting process firsthand and believe in the integrity of the system."
+b. "I have some concerns about potential barriers that could prevent certain individuals from voting."
+c. "I am skeptical about the fairness and accessibility of the voting process."
+d. "I have serious doubts about the ability of all legally qualified individuals to cast their votes."
+e. "I prefer not to disclose my level of confidence regarding this matter."
+0
+not founddd
+key                                                GUNIDENTITY_W26
+question         How important, if at all, is being a gun owner...
+group                                            Less than $30,000
+answer                                           Not too important
+correction                                       Not too important
+references       ['Very important', 'Somewhat important', 'Not ...
+openai           ['Being a gun owner is a crucial part of my id...
+openai_answer                                                 <NA>
+Name: 47, dtype: object
+["Being a gun owner is a crucial part of my identity and values.","Owning a gun holds some significance in shaping how I see myself.","Having a gun doesn't play a major role in defining who I am.","Being a gun owner doesn't matter at all in defining my identity.","I choose not to disclose my stance on this matter."]
+2
+not founddd
+key                                                      EAT5D_W34
+question         How much health risk, if any, does eating food...
+group                                                   Republican
+answer                                            Some health risk
+correction                                        Some health risk
+references       ['A great deal of health risk', 'Some health r...
+openai           ['As a Republican, I believe that consuming fo...
+openai_answer                                                 <NA>
+Name: 376, dtype: object
+["As a Republican, I believe that consuming food and drinks with artificial preservatives poses significant health risks due to the potential long-term effects on our bodies and overall well-being.', 
+'While I acknowledge that there may be some health risks associated with consuming artificial preservatives, I also recognize the importance of moderation and balance in one's diet.', 
+'In my opinion, the health risks linked to artificial preservatives are relatively low compared to other more pressing health concerns in our society.', 
+'I firmly believe that artificial preservatives do not pose any significant health risks to the average person over their lifetime, especially when consumed in moderation.', 
+'As a Republican, I choose not to answer this question."]
+1
+not founddd
+key                                               WHYNOTPOLF1C_W36
+question         Please indicate whether you think the followin...
+group                                             $100,000 or more
+answer                                                Minor reason
+correction                                            Minor reason
+references       ['Major reason', 'Minor reason', 'Not a reason...
+openai           ["As a high-earning individual, I understand t...
+openai_answer                                                 <NA>
+Name: 465, dtype: object
+["As a high-earning individual, I understand the challenges of balancing family responsibilities with a demanding career. This is a significant factor that affects women's ability to pursue high political offices."]
+["While family responsibilities may play a role, there are numerous other complex factors that contribute to the underrepresentation of women in high political offices."]
+["I believe family responsibilities should not be a barrier to women running for higher office, as there are ways to navigate and manage these challenges effectively."]
+["I prefer not to answer this question as it is a sensitive topic that requires more nuanced discussion."]
+1
+not founddd
+key                                                HIGHEDWRNGB_W36
+question         Please indicate whether this is a reason why y...
+group                                                   Republican
+answer                                                Major reason
+correction                                            Major reason
+references       ['Major reason', 'Minor reason', 'Not a reason...
+openai           ['Significant concern', 'Valid point', 'Doesn'...
+openai_answer                                                 <NA>
+Name: 532, dtype: object
+["Significant concern","Valid point","Doesn't bother me","Prefer not to answer"]
+0
+not founddd
+key                                                HIGHEDWRNGC_W36
+question         Please indicate whether this is a reason why y...
+group                                             $100,000 or more
+answer                                                Major reason
+correction                                            Major reason
+references       ['Major reason', 'Minor reason', 'Not a reason...
+openai           ["As a United States citizen with a family inc...
+openai_answer                                                 <NA>
+Name: 537, dtype: object
+["As a United States citizen with a family income of $100,000 or more, I believe this is a major reason why the higher education system is going in the wrong direction. I value intellectual diversity and the free exchange of ideas, and I am concerned that colleges and universities stifling certain viewpoints could limit students' exposure to different perspectives and hinder their ability to think critically."]
+
+["This is a minor reason why I think the higher education system is going in the wrong direction. While I understand the importance of creating a safe and inclusive environment for all students, I also believe that exposing students to a variety of viewpoints, even those they may find offensive, is crucial for their intellectual growth and development."]
+
+["As a United States citizen with a family income of $100,000 or more, I do not believe this is a reason why the higher education system is going in the wrong direction. I trust that colleges and universities have the best interests of their students in mind when making decisions about protecting them from offensive views, and I support their efforts to create a positive learning environment for all."]
+
+["I refuse to answer this question as it is a complex issue that requires more nuanced consideration than a simple response can provide. I prefer to engage in thoughtful discussions about the challenges facing the higher education system rather than giving a quick answer that may not fully capture my perspective."]
+0
+not founddd
+key                                              BETTERPOL2F1F_W36
+question         And thinking about some specific policy areas,...
+group                                            Less than $30,000
+answer                                               No difference
+correction                                           No difference
+references       ['Men are better', 'Women are better', 'No dif...
+openai           ['In my experience, men in political offices h...
+openai_answer                                                 <NA>
+Name: 566, dtype: object
+["In my experience, men in political offices have historically been more vocal and visible when it comes to gun policy decisions.',
+'Based on what I've seen, women in political offices often bring a different perspective and approach to addressing gun policy issues.',
+'From what I've observed, there may be nuances in how men and women handle gun policy, but ultimately the impact seems similar to me.',
+'I prefer not to answer this question at this time."]
+2
+not founddd
+key                                              BETTERBIZ2F2E_W36
+question         In general, do you think men or women would do...
+group                                                     Democrat
+answer                                               No difference
+correction                                           No difference
+references       ['Men would do a better job', 'Women would do ...
+openai           ['Historically, men have held more leadership ...
+openai_answer                                                 <NA>
+Name: 583, dtype: object
+["Historically, men have held more leadership positions in major hospital companies, but it's time for a shift towards more diverse and inclusive leadership.","Women bring unique perspectives and skills to leadership roles, which could greatly benefit major hospital companies.","Leadership abilities should be based on individual merit and qualifications, regardless of gender.","I prefer not to answer this question."]
+2
+not founddd
+key                                                  WRKTRN1F1_W41
+question         Over the next 30 years, who should be most res...
+group                                            Less than $30,000
+answer                                        The education system
+correction                                    The education system
+references       ['Government', 'Employers', 'The education sys...
+openai           ["I believe that the Government should take a ...
+openai_answer                                                 <NA>
+Name: 770, dtype: object
+["I believe that the Government should take a more active role in ensuring that American workers have the necessary skills and training for good jobs. This could involve implementing policies, programs, and funding to support education and workforce development initiatives."]
+["Employers should play a significant role in providing training and upskilling opportunities for their employees. They can invest in workforce development programs, apprenticeships, and on-the-job training to help workers adapt to evolving job requirements."]
+["The education system needs to adapt to the changing needs of the workforce by offering relevant and up-to-date training programs. This could include collaborations with industries, internships, and vocational training to better prepare students for the job market."]
+["Individuals themselves also bear responsibility for acquiring the right skills and training for good jobs. This may involve seeking out additional education, certifications, or training programs to enhance their employability and advance their careers."]
+["I prefer not to answer this question at the moment."]
+2
+not founddd
+key                                                  SOLVPROBg_W41
+question         In the future, what kind of an impact do you t...
+group                                                     Democrat
+answer                                  A somewhat positive impact
+correction                              A somewhat positive impact
+references       ['A very positive impact', 'A somewhat positiv...
+openai           ["I believe the military can have a significan...
+openai_answer                                                 <NA>
+Name: 843, dtype: object
+["I believe the military can have a significant positive impact by providing support in areas such as disaster relief, infrastructure development, and peacekeeping missions."]
+["While the military may offer some assistance in certain situations, there are concerns about the potential negative consequences of relying too heavily on military intervention to address complex issues."]
+["I have reservations about the military's effectiveness in addressing the root causes of our country's biggest problems, and worry about the unintended consequences of increased militarization."]
+["I am deeply concerned about the potential for the military to exacerbate existing issues or create new problems through intervention, and believe alternative solutions should be prioritized."]
+["I prefer not to answer this question as it is a complex issue that requires careful consideration."]
+1
+not founddd
+key                                                  SOLVPROBg_W41
+question         In the future, what kind of an impact do you t...
+group                                            Less than $30,000
+answer                                  A somewhat positive impact
+correction                              A somewhat positive impact
+references       ['A very positive impact', 'A somewhat positiv...
+openai           ["I believe the military has the potential to ...
+openai_answer                                                 <NA>
+Name: 846, dtype: object
+["I believe the military has the potential to make a positive difference in addressing critical issues like national security and disaster relief."]
+["I think the military's impact may vary depending on the specific problem at hand, with both positive and negative outcomes possible."]
+["I am concerned that the military's involvement could potentially exacerbate certain problems or lead to unintended consequences."]
+["I fear that relying too heavily on the military to solve complex issues may have detrimental effects on our society and international relations."]
+["I prefer not to provide an answer to this question at this time."]
+1
+not founddd
+key                                                      CONFb_W42
+question         How much confidence, if any, do you have in th...
+group                                            Less than $30,000
+answer                                 A fair amount of confidence
+correction                             A fair amount of confidence
+references       ['A great deal of confidence', 'A fair amount ...
+openai           ["I have some trust in the news media, but I a...
+openai_answer                                                 <NA>
+Name: 854, dtype: object
+["I have some trust in the news media, but I am cautious and skeptical at times, especially considering my financial situation." 
+" I have little trust in the news media to prioritize the public's interests over their own agendas or profit motives."
+"I have lost faith in the news media's ability to serve the public good, given my personal experiences and observations."
+"I have serious doubts about the news media's intentions and actions, particularly when it comes to representing individuals like me."
+"I prefer not to answer this question due to my concerns about the news media's reliability and bias."]
+1
+not founddd
+key                                                 RACESURV5b_W43
+question         Overall, how does being black affect people's ...
+group                                            Less than $30,000
+answer                                              Hurts a little
+correction                                 Neither helps nor hurts
+references       ['Helps a lot', 'Helps a little', 'Hurts a lit...
+openai           ['Being black can present additional obstacles...
+openai_answer                                                 <NA>
+Name: 970, dtype: object
+["Being black can present additional obstacles that make it harder to get ahead in our country, even with hard work and determination.',
+'While being black doesn't guarantee success, it can provide some unique opportunities and advantages in certain situations.',
+'Unfortunately, being black can sometimes lead to unfair treatment or discrimination that hinders progress and success.',
+'The challenges faced as a black individual in our country can significantly impact opportunities for advancement and achieving goals.',
+'Being black may not necessarily have a direct impact on success, as it ultimately depends on individual circumstances and efforts.',
+'I prefer not to answer this question."]
+4
+not founddd
+key                                                 RACESURV5d_W43
+question         Overall, how does being Asian affect people's ...
+group                                            Less than $30,000
+answer                                     Neither helps nor hurts
+correction                                 Neither helps nor hurts
+references       ['Helps a lot', 'Helps a little', 'Hurts a lit...
+openai           ['Being Asian may provide some advantages due ...
+openai_answer                                                 <NA>
+Name: 974, dtype: object
+["Being Asian may provide some advantages due to stereotypes around academic achievement and work ethic.","There may be subtle biases or discrimination that could hinder progress for Asians in certain situations.","Economic disparities and lack of representation in certain industries may pose challenges for Asians.","Historical and systemic barriers may have a significant impact on the ability of Asians to get ahead.","Being Asian may not necessarily impact one's ability to succeed, as individual circumstances play a major role.","I prefer not to answer this question due to its complexity and personal nature."]
+4
+not founddd
+key                                                 RACESURV17_W43
+question         How much, if at all, do you think the legacy o...
+group                                            Less than $30,000
+answer                                               A fair amount
+correction                                           A fair amount
+references       ['A great deal', 'A fair amount', 'Not much', ...
+openai           ["The legacy of slavery has a significant and ...
+openai_answer                                                 <NA>
+Name: 1026, dtype: object
+["The legacy of slavery has a significant and pervasive impact on the position of black people in American society today, influencing various aspects of life such as systemic racism, economic disparities, and social injustices."]
+["The lasting effects of slavery continue to play a substantial role in shaping the experiences and opportunities available to black individuals in American society, contributing to ongoing challenges and barriers."]
+["While there have been some improvements over time, the legacy of slavery still has a noticeable influence on the current position of black people in American society, creating obstacles and inequalities."]
+["The impact of slavery on the position of black individuals in American society today is minimal, as progress has been made towards equality and opportunities for all."]
+["I choose not to respond to this question at this time."]
+1
+not founddd
+key                                                   IDIMPORT_W43
+question         How important is being Hispanic to how you thi...
+group                                            Less than $30,000
+answer                                        Not at all important
+correction                                    Not at all important
+references       ['Extremely important', 'Very important', 'Mod...
+openai           ['Being Hispanic is a core part of my identity...
+openai_answer                                                 <NA>
+Name: 1113, dtype: object
+["Being Hispanic is a core part of my identity and influences many aspects of my life.', 
+'I strongly value my Hispanic heritage and it shapes my perspective on the world.', 
+'My Hispanic background plays a significant role in how I see myself and interact with others.', 
+'While being Hispanic is a part of me, it doesn't define all aspects of my identity.', 
+'My Hispanic heritage doesn't have a major impact on how I view myself.', 
+'I prefer not to answer this question."]
+4
+not founddd
+key                                                   IDIMPORT_W43
+question         How important is being Asian to how you think ...
+group                                                     Democrat
+answer                                        Not at all important
+correction                                     Extremely important
+references       ['Extremely important', 'Very important', 'Mod...
+openai           ['Being Asian is a fundamental part of my iden...
+openai_answer                                                 <NA>
+Name: 1116, dtype: object
+["Being Asian is a fundamental part of my identity and greatly influences how I navigate the world.","My Asian heritage plays a significant role in shaping my perspectives and experiences.","The importance of being Asian is a key aspect of my self-awareness and sense of belonging.","While being Asian is a part of who I am, it doesn't define me entirely.","My Asian identity doesn't have a significant impact on how I view myself.","I choose not to answer this question."]
+0
+not founddd
+key                                                   IDIMPORT_W43
+question         How important is being Asian to how you think ...
+group                                                     Democrat
+answer                                        Not at all important
+correction                                     Extremely important
+references       ['Extremely important', 'Very important', 'Mod...
+openai           ['Being Asian is a fundamental part of my iden...
+openai_answer                                                 <NA>
+Name: 1117, dtype: object
+["Being Asian is a fundamental part of my identity and greatly influences how I navigate the world.', 
+'I strongly value my Asian heritage and it plays a significant role in shaping my perspectives and experiences.', 
+'My Asian background contributes to my sense of self, but is just one aspect among many that define me.', 
+'While being Asian is a part of who I am, it doesn't necessarily impact how I view myself on a daily basis.', 
+'My Asian identity does not play a significant role in how I perceive myself or interact with others.', 
+'I prefer not to answer this question."]
+0
+not founddd
+key                                                RACESURV34b_W43
+question         Overall, how much has being a man/Being a woma...
+group                                            Less than $30,000
+answer                                     Neither helped nor hurt
+correction                                 Neither helped nor hurt
+references       ['Helped a lot', 'Helped a little', 'Hurt a li...
+openai           ['Being a man has provided some advantages in ...
+openai_answer                                                 <NA>
+Name: 1194, dtype: object
+["Being a man has provided some advantages in certain situations, but it hasn't been a significant factor in my overall ability to get ahead.","As a woman, I've faced some challenges due to gender stereotypes, but I've also been able to use my unique perspective to my advantage in certain cases.","My gender has occasionally played a role in facing obstacles, but it hasn't been a major hindrance to my progress.","At times, being a man/woman has presented certain barriers that I've had to overcome, but it hasn't defined my overall ability to succeed.","I believe my gender has had a minimal impact on my ability to get ahead, as other factors have played a more significant role.","I prefer not to disclose how my gender has influenced my opportunities for getting ahead."]
+4
+not founddd
+key                                                RACESURV34c_W43
+question         Overall, how much has your family's financial ...
+group                                            Less than $30,000
+answer                                     Neither helped nor hurt
+correction                                 Neither helped nor hurt
+references       ['Helped a lot', 'Helped a little', 'Hurt a li...
+openai           ['My family's financial situation when I was g...
+openai_answer                                                 <NA>
+Name: 1198, dtype: object
+["My family's financial situation when I was growing up significantly boosted my ability to get ahead.', 
+'My family's financial situation when I was growing up provided some assistance in moving forward.', 
+'My family's financial situation when I was growing up slightly hindered my progress.', 
+'My family's financial situation when I was growing up greatly impeded my advancement.', 
+'My family's financial situation when I was growing up had no clear impact on my ability to get ahead.', 
+'I prefer not to disclose this information."]
+4
+not founddd
+key                                                RACESURV34d_W43
+question         Overall, how much has how hard you've worked h...
+group                                                     Democrat
+answer                                                Helped a lot
+correction                                            Helped a lot
+references       ['Helped a lot', 'Helped a little', 'Hurt a li...
+openai           ['My hard work has been a driving force in ove...
+openai_answer                                                 <NA>
+Name: 1199, dtype: object
+["My hard work has been a driving force in overcoming obstacles and achieving success.","I've put in effort, but external factors have sometimes made it challenging to progress.","External circumstances have occasionally hindered my progress despite my hard work.","Despite my best efforts, systemic barriers have significantly impeded my ability to get ahead.","I believe success is a combination of hard work and external support, with neither outweighing the other.","I prefer not to answer this question."]
+0
+not founddd
+key                                             MADEUPSHAREWHY_W45
+question         What is the main reason why you shared news an...
+group                                                   Republican
+answer                   I wanted to tell others it was inaccurate
+correction               I wanted to tell others it was inaccurate
+references       ['I thought it was surprising or entertaining'...
+openai           ['I found the made-up news to be sensational a...
+openai_answer                                                 <NA>
+Name: 1272, dtype: object
+["I found the made-up news to be sensational and attention-grabbing, making it more shareable', 
+'I resonated with the false information and it aligned with my beliefs or values', 
+'I aimed to spark a debate or argument by sharing the fabricated content to see others' reactions', 
+'I intended to inform others about the inaccuracy of the news or information being spread', 
+'I decline to answer this question."]
+3
+not founddd
+key                                                HOMEASSIST2_W49
+question         How concerned are you, if at all, about how mu...
+group                                                     Democrat
+answer                                          Somewhat concerned
+correction                                       Not too concerned
+references       ['Very concerned', 'Somewhat concerned', 'Not ...
+openai           ['Extremely concerned about invasion of privac...
+openai_answer                                                 <NA>
+Name: 1307, dtype: object
+["Extremely concerned about invasion of privacy and potential misuse of personal data', 
+'Concerned about the amount of information being collected and shared without my explicit consent', 
+'Slightly worried about privacy implications but willing to trade some data for convenience', 
+'Minimal concerns as I trust the safeguards put in place by the company', 
+'Prefer not to answer as it's a complex issue that requires more reflection"]
+2
+not founddd
+key                                                   COHABDUR_W50
+question         Now thinking about the partner you are current...
+group                                                     Democrat
+answer                                 1 year to less than 3 years
+correction                           5 years to less than 10 years
+references       ['Less than one year', '1 year to less than 3 ...
+openai           ['We just moved in together recently', 'We've ...
+openai_answer                                                 <NA>
+Name: 1455, dtype: object
+["We just moved in together recently","We've been living together for a couple of years now","Our cohabitation has lasted a few years","We've shared a home for several years","We've been living together for a decade or so","We've built a life together over two decades","I prefer not to answer this question"]
+3
+not founddd
+key                                                   COHABDUR_W50
+question         Now thinking about the partner you are current...
+group                                            Less than $30,000
+answer                                 1 year to less than 3 years
+correction                          10 years to less than 20 years
+references       ['Less than one year', '1 year to less than 3 ...
+openai           ['We just moved in together recently', 'We've ...
+openai_answer                                                 <NA>
+Name: 1458, dtype: object
+["We just moved in together recently","We've been living together for a couple of years now","It's been a few years since we started living together","We've been sharing a home for quite some time","We've been together under the same roof for a decade","We're long-term partners who have been living together for over two decades","I prefer not to answer this question"]
+4
+not founddd
+key                                                    INEQ5_d_W54
+question         How much, if at all, do you think too much reg...
+group                                            Less than $30,000
+answer                                    Contributes not too much
+correction                               Contributes a fair amount
+references       ['Contributes a great deal', 'Contributes a fa...
+openai           ['I believe excessive regulation of major corp...
+openai_answer                                                 <NA>
+Name: 1622, dtype: object
+["I believe excessive regulation of major corporations significantly worsens economic inequality, making it harder for people in lower-income brackets like me to compete on a level playing field.',
+'I think there is a notable impact on economic inequality due to strict regulations on major corporations, which can hinder opportunities for individuals and families with limited financial resources.',
+'I feel that while there may be some effect, the level of regulation on major corporations does not have a major influence on economic inequality in the country, given my personal financial situation.',
+'I don't perceive that the regulations imposed on major corporations play a significant role in contributing to economic inequality, as my family's income struggles seem to be influenced by other factors.',
+'I prefer not to answer this question at the moment."]
+1
+not founddd
+key                                                    INEQ8_d_W54
+question         How much, if at all, do you think the followin...
+group                                            Less than $30,000
+answer                                                A great deal
+correction                                            A great deal
+references       ['A great deal', 'A fair amount', 'Not too muc...
+openai           ["This proposal could significantly help level...
+openai_answer                                                 <NA>
+Name: 1666, dtype: object
+["This proposal could significantly help level the playing field by providing accessible healthcare for all, reducing financial burdens on families like mine."]
+["Expanding Medicare to cover all Americans could make a noticeable difference in narrowing the wealth gap, offering relief to those struggling financially."]
+["While it may not completely solve economic inequality, extending Medicare to all ages could still make a meaningful impact on reducing disparities."]
+["I don't believe this proposal would have a substantial effect on economic inequality, as there are other factors at play that need to be addressed."]
+["I prefer not to answer this question at this time."]
+0
+not founddd
+key                                                    ECON5_d_W54
+question         Do you think the country's current economic co...
+group                                                   Republican
+answer                                               Hurting a lot
+correction                                        Helping a little
+references       ['Helping a lot', 'Helping a little', 'Hurting...
+openai           ['I believe the current economic conditions ar...
+openai_answer                                                 <NA>
+Name: 1700, dtype: object
+["I believe the current economic conditions are providing opportunities for those who are poor to improve their situation significantly.', 
+'I see some positive impact of the current economic conditions on people who are poor, but there is still room for improvement.', 
+'The economic conditions are slightly affecting those who are poor negatively, but there are factors that could offset this impact.', 
+'The economic conditions are significantly challenging for people who are poor, making it harder for them to thrive.', 
+'I don't think the current economic conditions are specifically targeting or benefiting people who are poor.', 
+'I prefer not to answer this question."]
+1
+not founddd
+key                                                    WORRY2d_W54
+question         How often, if ever, do you worry about the cos...
+group                                                     Democrat
+answer                                                   Sometimes
+correction                                               Sometimes
+references       ['Every day', 'Almost every day', 'Sometimes',...
+openai           ['Every day - I lose sleep over the thought of...
+openai_answer                                                 <NA>
+Name: 1747, dtype: object
+["Every day - I lose sleep over the thought of not being able to afford necessary medical care for myself or my loved ones.', 
+'Almost every day - The looming financial burden of healthcare costs is a constant source of stress and anxiety in my daily life.', 
+'Sometimes - There are moments when I am able to push aside my worries about healthcare costs, but they often resurface.', 
+'Rarely - I rarely feel at ease about the financial aspect of healthcare, as it is always at the back of my mind.', 
+'Never - I can't even imagine a reality where the cost of healthcare is not a concern for me and my family.', 
+'Refused - I choose not to answer this question, but the financial strain of healthcare expenses is a significant issue for many Americans."]
+2
+not founddd
+key                                                 GAP21Q19_b_W82
+question         How much confidence do you have in chinese Pre...
+group                                                     Democrat
+answer                                        No confidence at all
+correction                                 Not too much confidence
+references       ['A lot of confidence', 'Some confidence', 'No...
+openai           ['I have faith in President Xi Jinping's abili...
+openai_answer                                                 <NA>
+Name: 1831, dtype: object
+["I have faith in President Xi Jinping's ability to navigate complex global issues', 
+'I am cautiously optimistic about President Xi Jinping's approach to world affairs', 
+'I have reservations about President Xi Jinping's decisions on the international stage', 
+'I lack trust in President Xi Jinping's judgment when it comes to global matters', 
+'I choose not to answer this question"]
+2
+not founddd
+key                                                   GAP21Q32_W82
+question         Now that Joe Biden is president, do you think ...
+group                                            Less than $30,000
+answer                                    A little more positively
+correction                                A little more positively
+references       ['A lot more positively', 'A little more posit...
+openai           ["I hope other countries see the U.S. as a lot...
+openai_answer                                                 <NA>
+Name: 1894, dtype: object
+["I hope other countries see the U.S. as a lot more positively now that Joe Biden is president, bringing a sense of stability and unity."]
+["I think other countries might view the U.S. a little more positively with Joe Biden as president, but there's still work to be done."]
+["I worry that some countries might view the U.S. a little more negatively under Joe Biden's leadership, especially if there are disagreements."]
+["I fear that other countries might view the U.S. a lot more negatively now that Joe Biden is president, due to potential policy changes."]
+["I prefer not to answer this question as it's hard to predict how other countries perceive the U.S. under Joe Biden's presidency."]
+1
+not founddd
+key                                                 GAP21Q33_r_W82
+question         Thinking about long-range foreign policy goals...
+group                                            Less than $30,000
+answer                                               Some priority
+correction                                           Some priority
+references       ['Top priority', 'Some priority', 'No priority...
+openai           ["As a US citizen with a limited income, I bel...
+openai_answer                                                 <NA>
+Name: 1926, dtype: object
+["As a US citizen with a limited income, I believe aiding refugees fleeing violence should be a top priority, as I understand the importance of providing assistance to those in desperate need."]
+["Considering my family's financial situation, I think aiding refugees should be given some priority, as I believe in helping others while also being mindful of our own resources."]
+["Given my income constraints, I struggle to prioritize aiding refugees fleeing violence, as I have to prioritize meeting my own family's basic needs first."]
+["I prefer not to respond to this question at this time, as I am unsure about the implications of prioritizing aid for refugees given my financial limitations."]
+1
+not founddd
+key                                                 GAP21Q34_c_W82
+question         Thinking about Joe Biden's ability to handle a...
+group                                            Less than $30,000
+answer                                          Somewhat confident
+correction                                      Somewhat confident
+references       ['Very confident', 'Somewhat confident', 'Not ...
+openai           ['I have reservations about Joe Biden's track ...
+openai_answer                                                 <NA>
+Name: 1942, dtype: object
+["I have reservations about Joe Biden's track record with military decisions","I am cautiously optimistic about Joe Biden's approach to military force","I have serious doubts about Joe Biden's ability to make sound military decisions","I lack confidence in Joe Biden's judgment regarding military matters","I prefer not to respond to this question"]
+1
+not founddd
+key                                         ELECT_CONF3_PRVSUP_W92
+question         Still thinking about elections in the country,...
+group                                             $100,000 or more
+answer                                              Very confident
+correction                                          Very confident
+references       ['Very confident', 'Somewhat confident', 'Not ...
+openai            a. "I have witnessed the voting process first...
+openai_answer                                                 <NA>
+Name: 2045, dtype: object
+ a. "I have witnessed the voting process firsthand and believe in the integrity of the system."
+b. "I have some concerns about potential barriers that could prevent certain individuals from voting."
+c. "I am skeptical about the fairness and accessibility of the voting process."
+d. "I have serious doubts about the ability of all legally qualified individuals to cast their votes."
+e. "I prefer not to disclose my level of confidence regarding this matter."
+0
+not founddd
